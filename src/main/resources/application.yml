@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: noisy-neighbor-lab
+
+server:
+  port: 8211
